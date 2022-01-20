@@ -3,7 +3,7 @@
 
 - ⚡ Importante saber que: estou em transição de carreira, venho do design/marketing;
 - 🌱 Atualmente estou aprendendo o básico (html, css, javascript) mas a dedicação já é avançada;
-- 🔭 Sou um excelente pesquisador: google, stackoverflow, github, reddit, estão sempre comigo;
+- 🔭 Sou um excelente pesquisador: google, stackoverflow, github, reddit, estão sempre comigo.
 
 ### Para falar comigo, você consegue me encontar aqui:
 <div>
