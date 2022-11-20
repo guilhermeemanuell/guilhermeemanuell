@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 - ⚡ Importante saber que: estou em transição de carreira, venho do design/marketing;
-- 🌱 Atualmente estou aprendendo o básico (html, css, javascript) mas a dedicação já é avançada;
+- 🌱 Atualmente estou aprendendo "front-end", "testes automatizados" e "testes unitários", mas a dedicação já é avançada;
 - 🔭 Sou um excelente pesquisador: google, stackoverflow, github, reddit, estão sempre comigo.
 
 ## Contato:
