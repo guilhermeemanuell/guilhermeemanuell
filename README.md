@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/guilhermeemanuell" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-guilhermeemanuell-606060?style=flat&logo=linkedin" alt="linkedin"/>
   <a href="mailto:emanuellguilherme@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-guilhermeemanuell-606060?style=flat&logo=gmail" alt="linkedin"/></a>
+  <img align="center" src="https://img.shields.io/badge/-emanuellguilherme-606060?style=flat&logo=gmail" alt="linkedin"/></a>
 </div>
 
 ## O que tenho feito:
