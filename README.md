@@ -20,6 +20,8 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeemanuell&layout=compact&langs_count=7&theme=graywhite"/> 
 </div>
 
+##
+<br>
 
 <div align="center">
 
