@@ -13,15 +13,13 @@
   <a href="mailto:emanuellguilherme@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-guilhermeemanuell-606060?style=flat&logo=gmail" alt="linkedin"/></a>
 </div>
+<br>
 
+## O que tenho feito:
 <div align="center">
-<!-- <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermeemanuell&theme=graywhite&show_icons=true"/>  -->
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermeemanuell&show_icons=true&theme=graywhite"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeemanuell&layout=compact&langs_count=7&theme=graywhite"/> 
 </div>
-
-##
-<br>
 
 <div align="center">
 
