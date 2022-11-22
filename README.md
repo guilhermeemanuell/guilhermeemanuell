@@ -1,6 +1,6 @@
 ## Opa! Beleza? Eu sou o Guilherme! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=guilhermeemanuell&color=brightgreen)
 
 - ⚡ Importante saber que: estou em transição de carreira, venho do design/marketing;
 - 🌱 Atualmente estou aprendendo "front-end", "testes automatizados" e "testes unitários", mas a dedicação já é avançada;
