@@ -11,15 +11,3 @@
 <a href="https://linkedin.com/in/guilhermeemanuell" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-guilhermeemanuell-606060?style=flat&logo=linkedin" alt="linkedin"/>
 </div>
-
-## O que tenho feito:
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermeemanuell&show_icons=true&theme=graywhite"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeemanuell&layout=compact&langs_count=7&theme=graywhite"/> 
-</div>
-
-<div align="center">
-
-![Snake animation](https://github.com/guilhermeemanuell/guilhermeemanuell/blob/output/github-contribution-grid-snake.svg)
-
-</div>
